@@ -1,1 +1,1 @@
-# StudentRegistrationSystemConsoleApp
+Run Main.java
